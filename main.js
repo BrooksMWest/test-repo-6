@@ -1,0 +1,1 @@
+console.log("this is the console for test repo 6.")
